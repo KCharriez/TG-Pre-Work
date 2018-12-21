@@ -1,0 +1,3 @@
+Default properties in CSS. The 'box-sizing' property, which has the sometimes problematic value of 'content-box'.
+This 'content-box' value renders the border and padding, which makes the actual element larger than it needs to be.
+We can limit this through the use of the border-box declaration, wherein the border and padding remain inside the box and the element is rendered to a more obvious size.

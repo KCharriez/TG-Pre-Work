@@ -1,0 +1,7 @@
+Elements have default positions that do not overlap.
+The 'static' value of a position will reset the element to its default position value.
+Use of the 'top' and etc properties will not move an element with the position value of static.
+The relative in the 'relative' value refers to the default value for the position of an element.
+The 'absolute' value allows for overlapping of elements on the page.
+The 'absolute' value should also allow an element to be scrolled by.
+Meanwhile, 'fixed' values for positions keep an element scrolling with the user.

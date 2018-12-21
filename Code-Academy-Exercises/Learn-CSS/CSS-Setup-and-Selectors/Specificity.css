@@ -1,0 +1,39 @@
+/*
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="./style.css" type="text/css" rel="stylesheet">
+  <title>Vacation World</title>
+</head>
+
+<body>
+  <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/explorer.jpeg" />
+  <h1 class="title cursive capitalize">Top Vacation Spots</h1>
+
+</body>
+
+</html>
+*/
+p {
+     font-family: Arial;
+   }
+h1 {
+    color: maroon;
+ }
+.title {
+    color: teal;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.publish-time {
+    color: gray;
+}
+.cursive {
+    font-family: cursive;
+}
+.capitalize {
+    text-transform: capitalize;
+}
+/*Syntax for the use of id and class attributes*/

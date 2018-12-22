@@ -1,0 +1,16 @@
+//var
+var favoriteFood = 'pizza';
+var numOfSlices = 8;
+console.log(favoriteFood);
+console.log(numOfSlices);
+//let
+let changeMe = true;
+changeMe = false;
+console.log(changeMe);
+//const
+const entree = 'Enchiladas';
+console.log(entree);
+//entree = 'Tacos'
+const testing;
+//Practice in creating and naming variables and the operators and keywords that support this. How let, var, and const can all do this.
+//const needs to have a value to operate correctly.

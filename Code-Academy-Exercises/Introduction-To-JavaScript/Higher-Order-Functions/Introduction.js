@@ -1,0 +1,1 @@
+//A way to think of functions in a similar way to how we think of giving commands to a person, with the use of abstract and mutually-understood phrases. How Higher-Order functions will help with communicating these abstract phrases to a computer.
